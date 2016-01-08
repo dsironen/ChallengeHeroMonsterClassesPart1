@@ -18,7 +18,7 @@ namespace ChallengeHeroMonsterClassesPart1
             hero.AttackBonus = 10;
 
             hero.Attack();
-            resultLabel.Text = 
+            //resultLabel.Text = 
 
             Character monster = new Character();
             monster.Name = "Creep";
